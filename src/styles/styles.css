@@ -1,0 +1,60 @@
+.cardWidth{
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    color: #8c8dba !important;
+    font-size: 10px;;
+    padding-bottom: 20px;
+}
+.textDecoration{
+    color: #9a9c9f;
+    font-size: 14px;
+    background-image: linear-gradient();
+}
+.input-container {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+
+  }
+  .box{
+        margin-bottom: 15px;
+  }
+  
+  .icon {
+    padding: 6px;
+    background:#eeeeee;
+    border-left: 1px solid #afb1b0;
+    border-top: 1px solid #afb1b0;
+    border-bottom: 1px solid #afb1b0;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius:3px ;
+    color: #827f86;
+    min-width: 20px;
+    /* font-size: 50px; */
+    text-align: center;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    background-color: #ccc;
+    height: 8px;
+    border: #f7f7f7;
+    border-radius: 0px 3px 3px 0px;
+    border:1px solid #afb1b0 ;
+    
+  }
+  
+  .input-field:focus {
+    box-shadow: -10 -10 -10 rgba(0,0,0,0.1);
+  }
+  
+  .heding{
+    font-size: 20px;
+    color:'#ccc'
+  }
+  .root{
+    width: '100%',
+  }
