@@ -33,7 +33,7 @@ export default function Step2({state,handleChange,handleNext,handleFocus,schema}
                 {/* <Box mt={1} mb={2} >
                     {renderText({label:"Account details"})}
                 </Box> */}
-                
+                 <p>Hello this is image tag</p>
                 <section className="box">
                     {renderText({
                         variant:"caption",
