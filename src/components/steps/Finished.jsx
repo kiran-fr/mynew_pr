@@ -24,7 +24,7 @@ export default function Finished({state}) {
 
                         </Grid>
                     })} */}
-
+                   
                     <img src ='./assets/success.png' width="20%" />
 
                 </Box>
